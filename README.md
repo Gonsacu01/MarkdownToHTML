@@ -1,2 +1,2 @@
-# pyscripts
-Python utilities that can be used for daily operations.
+# MarkdownToHTML
+Python utility that generates HTML files from markdown formatted files.
